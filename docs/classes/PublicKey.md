@@ -1,0 +1,94 @@
+# Class: PublicKey
+
+## Table of contents
+
+### Constructors
+
+- [constructor](PublicKey.md#constructor)
+
+### Properties
+
+- [e](PublicKey.md#e)
+- [n](PublicKey.md#n)
+
+### Methods
+
+- [encrypt](PublicKey.md#encrypt)
+- [verify](PublicKey.md#verify)
+
+## Constructors
+
+### constructor
+
+• **new PublicKey**(`e`, `n`)
+
+#### Parameters
+
+| Name | Type |
+| :------ | :------ |
+| `e` | `bigint` |
+| `n` | `bigint` |
+
+#### Defined in
+
+publicKey.ts:7
+
+## Properties
+
+### e
+
+• **e**: `bigint`
+
+#### Defined in
+
+publicKey.ts:4
+
+___
+
+### n
+
+• **n**: `bigint`
+
+#### Defined in
+
+publicKey.ts:5
+
+## Methods
+
+### encrypt
+
+▸ **encrypt**(`m`): `bigint`
+
+#### Parameters
+
+| Name | Type |
+| :------ | :------ |
+| `m` | `bigint` |
+
+#### Returns
+
+`bigint`
+
+#### Defined in
+
+publicKey.ts:12
+
+___
+
+### verify
+
+▸ **verify**(`s`): `bigint`
+
+#### Parameters
+
+| Name | Type |
+| :------ | :------ |
+| `s` | `bigint` |
+
+#### Returns
+
+`bigint`
+
+#### Defined in
+
+publicKey.ts:16
