@@ -1,12 +1,3 @@
-/**
- * My module description. Please update with your module data.
- *
- * @remarks
- * This module runs perfectly in node.js and browsers
- *
- * @packageDocumentation
- */
-
 import { PublicKey } from './publicKey'
 import { PrivateKey } from './privateKey'
 import * as bcu from 'bigint-crypto-utils'
@@ -21,6 +12,7 @@ export class RSA {
   // Generamos una constante para "e" en módulo phi(n)
   _E = 65537n
 
+  
   async generateRandomKeys (bitLength = 3072): Promise<{}> {
     let p, q, n, phi
 

@@ -31,7 +31,7 @@
 
 #### Defined in
 
-privateKey.ts:8
+[privateKey.ts:8](https://github.com/sumayabl/RSA-Module/blob/e6f7066/src/ts/privateKey.ts#L8)
 
 ## Properties
 
@@ -41,7 +41,7 @@ privateKey.ts:8
 
 #### Defined in
 
-privateKey.ts:5
+[privateKey.ts:5](https://github.com/sumayabl/RSA-Module/blob/e6f7066/src/ts/privateKey.ts#L5)
 
 ___
 
@@ -51,7 +51,7 @@ ___
 
 #### Defined in
 
-privateKey.ts:6
+[privateKey.ts:6](https://github.com/sumayabl/RSA-Module/blob/e6f7066/src/ts/privateKey.ts#L6)
 
 ## Methods
 
@@ -71,7 +71,7 @@ privateKey.ts:6
 
 #### Defined in
 
-privateKey.ts:13
+[privateKey.ts:13](https://github.com/sumayabl/RSA-Module/blob/e6f7066/src/ts/privateKey.ts#L13)
 
 ___
 
@@ -91,4 +91,4 @@ ___
 
 #### Defined in
 
-privateKey.ts:17
+[privateKey.ts:17](https://github.com/sumayabl/RSA-Module/blob/e6f7066/src/ts/privateKey.ts#L17)

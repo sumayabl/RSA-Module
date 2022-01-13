@@ -30,7 +30,7 @@
 
 #### Defined in
 
-[index.ts:24](https://github.com/juanelas/node-browser-skel/blob/4d9c5d5/src/ts/index.ts#L24)
+[index.ts:22](https://github.com/sumayabl/RSA-Module/blob/e6f7066/src/ts/index.ts#L22)
 
 ___
 
@@ -40,7 +40,7 @@ ___
 
 #### Defined in
 
-[index.ts:21](https://github.com/juanelas/node-browser-skel/blob/4d9c5d5/src/ts/index.ts#L21)
+[index.ts:19](https://github.com/sumayabl/RSA-Module/blob/e6f7066/src/ts/index.ts#L19)
 
 ___
 
@@ -50,7 +50,7 @@ ___
 
 #### Defined in
 
-[index.ts:20](https://github.com/juanelas/node-browser-skel/blob/4d9c5d5/src/ts/index.ts#L20)
+[index.ts:18](https://github.com/sumayabl/RSA-Module/blob/e6f7066/src/ts/index.ts#L18)
 
 ## Methods
 
@@ -70,4 +70,4 @@ ___
 
 #### Defined in
 
-[index.ts:26](https://github.com/juanelas/node-browser-skel/blob/4d9c5d5/src/ts/index.ts#L26)
+[index.ts:24](https://github.com/sumayabl/RSA-Module/blob/e6f7066/src/ts/index.ts#L24)
